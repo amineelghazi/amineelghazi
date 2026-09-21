@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-e-a4b46a2b3) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://amineelghazi.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amineelghazi.github.io-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://amineelghazi.github.io/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amineelghazi100@hotmail.com) 
 
 
