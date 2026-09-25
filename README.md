@@ -12,7 +12,7 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amineelghazi)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=amineelghazi&theme=dark)](https://git.io/streak-stats)
 
 
 
