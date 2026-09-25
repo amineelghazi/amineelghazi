@@ -21,7 +21,7 @@ Software engineering student with hands-on experience building backend services,
 
 I enjoy working across the stack - from designing APIs and databases to deploying applications with containers and infrastructure tooling.
 
-I'm also developing my cybersecurity skills with a focus on **web application security, reconnaissance, and CTF-style challenges** through platforms such as Hack The Box.
+I'm also developing my cybersecurity skills with a focus on **web application security, reconnaissance, and CTF(capture the flag) style challenges** through platforms such as Hack The Box.
 
 **Currently looking for a full-time internship for Winter 2027.**
 
