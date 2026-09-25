@@ -1,19 +1,100 @@
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-e-a4b46a2b3) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-amineelghazi.github.io-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://amineelghazi.github.io/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amineelghazi100@hotmail.com) 
+# Hey, I'm Amine 👋
 
+**Software Engineering Student · Montreal, QC**
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+Building backend systems, full stack apps, 2D Unity games, mobile apps with React & Expo, and learning web application security.
 
-
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=amineelghazi&theme=dark)](https://git.io/streak-stats)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=googlechrome&logoColor=white)](https://amineelghazi.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amine-e-a4b46a2b3)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2074425)
+</div>
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## About
+
+Software engineering student with hands-on experience building backend services, full-stack applications, mobile applications, and 2D games.
+
+I enjoy working across the stack - from designing APIs and databases to deploying applications with containers and infrastructure tooling.
+
+I'm also developing my cybersecurity skills with a focus on **web application security, reconnaissance, and CTF-style challenges** through platforms such as Hack The Box.
+
+**Currently looking for a full-time internship for Winter 2027.**
+
+---
+
+## Featured Projects
+
+### 🎮 [1346 – Caffa](https://github.com/amineelghazi)
+
+A 2D platformer developed with **Unity and C#**, set during the Black Death in 1346.
+
+The player takes the role of a physician who must navigate infected environments and make decisions between treating and confronting infected animals. The game features a contamination system connected to the player's actions.
+
+**Tech:** Unity · C# · 2D Game Development
+
+---
+
+### 🐳 [tp3-2389824](https://github.com/amineelghazi/tp3-2389824)
+
+Self-hosted, multi-container infrastructure built with **Docker Compose**.
+
+The project includes a full-stack web application with a React frontend, Node backend, and MySQL database, alongside infrastructure and self-hosted services.
+
+**Tech:** Docker Compose · Traefik · Let's Encrypt · DuckDNS · React · Node.js · MySQL · Portainer · Jellyfin
+
+---
+
+## Technical Skills
+
+| Category                   | Technologies                                                             |
+| -------------------------- | ------------------------------------------------------------------------ |
+| **Languages**              | C#, TypeScript, Java, JavaScript, Python, HTML, SQL                      |
+| **Frontend**               | React, React Native, Expo, Vite, React Router, Bootstrap, SASS           |
+| **Backend**                | NestJS, Node.js, Spring, .NET, Flask, FastAPI                            |
+| **Game Development**       | Unity, C#                                                                |
+| **Databases**              | MySQL, PostgreSQL, MongoDB, MariaDB, Microsoft SQL Server, SQLite, Neo4j |
+| **ORM / Data**             | Prisma                                                                   |
+| **Cloud & Infrastructure** | AWS, Docker, Kubernetes, Terraform, Nginx, Apache                        |
+| **Development Tools**      | Git, GitHub, Postman, Swagger                                            |
+| **Project & Design**       | Jira, Confluence, Trello, Figma                                          |
+| **Hardware / Embedded**    | Raspberry Pi, Arduino                                                    |
+
+---
+
+## Cybersecurity
+
+I'm currently developing practical cybersecurity skills with an emphasis on **web application security, reconnaissance, enumeration, and penetration-testing fundamentals**.
+
+| Area                              | Tools / Platforms                                             |
+| --------------------------------- | ------------------------------------------------------------- |
+| **Reconnaissance & Networking**   | Nmap, Wireshark, Netcat, theHarvester, enum4linux             |
+| **Web Security**                  | Burp Suite, OWASP, ffuf, Gobuster, Feroxbuster, SQLmap, Nikto |
+| **Windows / Active Directory**    | BloodHound, NetExec, Impacket, Evil-WinRM, Mimikatz           |
+| **Password & Credential Testing** | Hashcat, John the Ripper                                      |
+| **OSINT**                         | SpiderFoot, Shodan, Maigret                                   |
+| **Steganography / Metadata**      | Steghide, ExifTool                                            |
+| **Security Frameworks / Testing** | Metasploit                                                    |
+| **Platforms**                     | Hack The Box, TryHackMe, VulnHub                              |
+
+---
+
+## What I'm Working On
+
+* Building and improving full-stack applications
+* Developing **1346 - Caffa** in Unity
+* Learning more about backend architecture and infrastructure
+* Practicing web application security and penetration-testing fundamentals
+* Exploring cloud and containerized deployments
+
+---
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amineelghazi\&theme=dark)](https://git.io/streak-stats)
+
+</div>
