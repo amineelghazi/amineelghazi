@@ -76,7 +76,6 @@ I'm currently developing practical cybersecurity skills with an emphasis on **we
 | **Web Security**                  | Burp Suite, OWASP, ffuf, Gobuster, Feroxbuster, SQLmap, Nikto |
 | **Windows / Active Directory**    | BloodHound, NetExec, Impacket, Evil-WinRM, Mimikatz           |
 | **Password & Credential Testing** | Hashcat, John the Ripper                                      |
-| **OSINT**                         | SpiderFoot, Shodan, Maigret                                   |
 | **Steganography / Metadata**      | Steghide, ExifTool                                            |
 | **Security Frameworks / Testing** | Metasploit                                                    |
 | **Platforms**                     | Hack The Box, TryHackMe, VulnHub                              |
