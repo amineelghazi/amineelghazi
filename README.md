@@ -29,7 +29,7 @@ I'm also developing my cybersecurity skills with a focus on **web application se
 
 ## Featured Projects
 
-### 🎮 [1346 – Caffa](https://github.com/amineelghazi/1346-caffa)
+### 🎮 [1346 – Caffa](https://github.com/amineelghazi/1346-caffa) / In Progress
 
 A 2D platformer developed with **Unity and C#**, set during the Black Death in 1346.
 
