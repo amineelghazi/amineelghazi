@@ -11,12 +11,6 @@ Building backend systems, full stack apps, 2D Unity games, mobile apps with Reac
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2074425)
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=amineelghazi\&theme=dark)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## About
@@ -95,4 +89,10 @@ I'm currently developing practical cybersecurity skills with an emphasis on **we
 * Exploring cloud and containerized deployments
 
 ---
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=amineelghazi\&theme=dark)](https://git.io/streak-stats)
+
+</div>
 
