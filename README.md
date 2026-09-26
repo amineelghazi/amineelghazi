@@ -45,7 +45,7 @@ Self-hosted, multi-container infrastructure built with **Docker Compose**.
 
 The project includes a full-stack web application with a React frontend, Node backend, and MySQL database, alongside infrastructure and self-hosted services.
 
-**Tech:** Docker Compose · Traefik · Let's Encrypt · DuckDNS · React · Node.js · MySQL · Portainer · Jellyfin
+**Tech:** Docker Compose · Traefik · DuckDNS · React · Node.js · MySQL · Portainer · Jellyfin
 
 ---
 
