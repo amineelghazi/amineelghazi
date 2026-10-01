@@ -105,4 +105,3 @@ Practical, hands-on skills in **web application security, reconnaissance, and pe
 | **Exploitation Framework** | Metasploit |
 | **Platforms** | Hack The Box · TryHackMe · VulnHub |
 
-<br>
