@@ -90,7 +90,6 @@ Building backend systems, full-stack apps, 2D Unity games, and mobile apps while
 <br>
 
 ---
-
 ### 🔐 Cybersecurity
 
 Practical, hands-on skills in **web application security, reconnaissance, and penetration-testing fundamentals**, built through CTF style challenges.
