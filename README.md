@@ -88,7 +88,6 @@ Building backend systems, full-stack apps, 2D Unity games, and mobile apps while
 | 🐳 **[tp3-2389824](https://github.com/amineelghazi/tp3-2389824)** | `Docker Compose` `Traefik` `React` `Node.js` `MySQL` | A self hosted, **multi-container infrastructure** running a full-stack app (React + Node + MySQL) alongside reverse-proxied services (Portainer, Jellyfin), provisioned with DuckDNS. |
 
 <br>
-
 ---
 ### 🔐 Cybersecurity
 
