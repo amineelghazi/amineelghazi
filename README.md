@@ -1,9 +1,9 @@
 <!-- GitHub Profile README -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=9FEF00&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Amine+%F0%9F%91%8B;Software+Engineering+Student;Full-Stack+%2B+Game+Developer;Learning+Web+App+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=9FEF00&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Amine+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+%2B+Game+Developer;Learning+Web+App+Security" alt="Typing SVG" />
 
-**Software Engineering Student · Montreal, QC 🇨🇦**
+**Computer Science · Montreal, QC 🇨🇦**
 
 Building backend systems, full-stack apps, 2D Unity games, and mobile apps while improving in offensive security.
 
