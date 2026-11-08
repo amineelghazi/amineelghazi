@@ -99,7 +99,7 @@ Practical, hands-on skills in **web application security, reconnaissance, and pe
 | Area | Tools |
 |---|---|
 | **Recon & Networking** | Nmap · Wireshark · Netcat · theHarvester · enum4linux |
-| **Web Security** | Burp Suite · OWASP · ffuf · Gobuster · Feroxbuster · SQLmap · Nikto |
+| **Web Security** | Burp Suite · OWASP · ffuf · Gobuster · SQLmap · Nikto |
 | **Windows / Active Directory** | BloodHound · NetExec · Impacket · Evil-WinRM · Mimikatz |
 | **Credential Testing** | Hashcat · John the Ripper |
 | **Stego / Metadata** | Steghide · ExifTool |
